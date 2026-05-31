@@ -1,0 +1,7 @@
+# robots.txt for KokoYasu
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /assets/
+Disallow: /private/
+Disallow: /backup/
